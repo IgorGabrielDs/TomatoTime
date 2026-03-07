@@ -1,2 +1,2 @@
 # TomatoTime
-Extensão do google para estudos
+Extensão do google para estudos diversos.
